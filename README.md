@@ -1,4 +1,4 @@
-# Object Based Nim 
+# Object Oriented Nim 
 
 This is a **console-based implementation of the classic Nim game** written in C++. It supports both human players and AI opponents, including a **random-move bot** and a **strategically optimal bot**.  
 
