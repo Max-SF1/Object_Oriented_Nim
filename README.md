@@ -16,8 +16,7 @@ The game allows custom board setups and provides a clean, visual representation 
 - **Turn-based gameplay** with automatic validation of moves.
 - **Interactive console interface** with board display using stars for objects.
 - **1v1 or human vs bot** gameplay.
-  
-(note: does not feature input sanitization.)
+- (note: does not feature input sanitization.)
 ---
 
 ## How to Play
